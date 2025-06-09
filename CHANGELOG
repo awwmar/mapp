@@ -1,0 +1,5 @@
+Changelog
+Location Services Updates
+Current Location Feature: Replaced browser geolocation with IP-based location detection to resolve functionality issues and ensure consistent cross-platform performance
+
+Nearby Places Enhancement: Updated address data structure to return results as a structured list format instead of single string output for improved data processing and display capabilities
