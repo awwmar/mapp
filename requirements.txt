@@ -9,7 +9,6 @@ numpy==1.26.4
 SQLAlchemy==2.0.28
 cryptography==42.0.5
 qrcode==7.4.2
-pillow==10.1.0
 geojson==3.0.1
 branca==0.7.0
 streamlit-folium==0.15.1
